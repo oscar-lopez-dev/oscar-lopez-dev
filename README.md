@@ -1,0 +1,58 @@
+<div align="center">
+
+# Hi there, I'm Oscar 👋
+
+**Fullstack Software Engineer · Modern Frontend · Cloud APIs · Applied AI**
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live_Site-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://personal-brand-website-iota-mauve.vercel.app)
+[![GitHub](https://img.shields.io/badge/GitHub-oscarlopez1991-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/oscarlopez1991)
+
+<p align="center">
+  I design and build resilient web applications, data-driven APIs, and AI-powered interfaces.<br/>
+  Passionate about clean architecture, deliberate practice, modern CSS layout standards, and developer productivity.
+</p>
+
+</div>
+
+---
+
+### 🚀 Tech Stack & Tooling
+
+<div align="center">
+
+| Area | Technologies & Frameworks |
+| :--- | :--- |
+| **Frontend** | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js_15-000000?style=flat-square&logo=next.js&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) ![HTML5/CSS3](https://img.shields.io/badge/Modern_CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) |
+| **Backend & Cloud** | ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white) ![.NET Core](https://img.shields.io/badge/.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![Python](https://img.shields.io/badge/Python_3.12-3776AB?style=flat-square&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) |
+| **Data & Vector Stores** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) ![pgvector](https://img.shields.io/badge/pgvector-336791?style=flat-square&logo=postgresql&logoColor=white) ![Entity Framework](https://img.shields.io/badge/EF_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white) |
+| **AI & LLMs** | ![Google Gemini](https://img.shields.io/badge/Gemini_API-8E75B2?style=flat-square&logo=google&logoColor=white) ![LangGraph](https://img.shields.io/badge/LangGraph-FF9900?style=flat-square&logo=chainlink&logoColor=white) ![RAG](https://img.shields.io/badge/RAG_Pipelines-00C7B7?style=flat-square) ![LiteLLM](https://img.shields.io/badge/LiteLLM-1A1A1A?style=flat-square) |
+| **DevOps & Testing** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white) ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white) ![Moq](https://img.shields.io/badge/Moq-Testing-gray?style=flat-square) |
+
+</div>
+
+---
+
+### 🌟 Featured Repositories
+
+| Project | Description | Highlights |
+| :--- | :--- | :--- |
+| 🧠 [**DevBrain**](https://github.com/oscarlopez1991/devbrain) | **AI-Powered Document Intelligence Platform** | RAG pipeline, FastAPI, Next.js 16, pgvector semantic search, LangGraph agents |
+| 🎨 [**Modern CSS Learning Catalog**](https://github.com/oscarlopez1991/web-dev-learn-css) | **Deliberate-practice modern CSS layout architecture reference** | Interactive playgrounds, native web standards (Grid, Flexbox, Container Queries), GitHub Pages deploy |
+| 🌐 [**Personal Brand Website**](https://github.com/oscarlopez1991/personal-brand-website) | **Developer Portfolio & Living Showcase** | Next.js 15 App Router, React 19, Tailwind CSS, Vitest test suite |
+| ⚡ [**VerifyGo**](https://github.com/oscarlopez1991/verifygo-web) | **Talent Arena Open Getaway Hackathon App** | Google Gemini GenAI SDK, React 19, Motion animations, Vite |
+| 🛡️ [**.NET Technical Challenges**](https://github.com/oscarlopez1991/redarbor-aspnetcore-ado) | **ASP.NET Core Web APIs** | ADO.NET, EF Core InMemory / SQLite, Moq unit testing, Dockerized services |
+
+---
+
+### 📊 GitHub Activity & Statistics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=oscarlopez1991&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Oscar's GitHub stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oscarlopez1991&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
+</div>
+
+---
+
+<div align="center">
+  <sub>Crafted with passion for clean code, deliberate practice, and continuous learning.</sub>
+</div>
