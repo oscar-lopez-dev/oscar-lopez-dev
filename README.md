@@ -2,15 +2,15 @@
 
 # Hi there, I'm Oscar 👋
 
-**Senior Fullstack Engineer · Modern Frontend · Cloud APIs · Applied AI**
+**Senior Full-Stack AI Engineer**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live_Site-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://personal-brand-website-iota-mauve.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-oscarlopez.dev-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://oscarlopez.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-oscarlopezdev-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/oscarlopezdev)
 [![X](https://img.shields.io/badge/X-@oscarlopezdev-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/oscarlopezdev)
 
 <p align="center">
-  I design and build resilient web applications, data-driven APIs, and AI-powered interfaces.<br/>
-  Passionate about clean architecture, deliberate practice, modern CSS layout standards, and developer productivity.
+  I build production-grade web applications and AI-powered systems,<br/>
+  combining full-stack delivery, backend expertise, and pragmatic software architecture.
 </p>
 
 </div>
@@ -37,11 +37,10 @@
 
 | Project | Description | Highlights |
 | :--- | :--- | :--- |
-| 🧠 [**DevBrain**](https://github.com/oscar-lopez-dev/devbrain) | **AI-Powered Document Intelligence Platform** | RAG pipeline, FastAPI, Next.js 16, pgvector semantic search, LangGraph agents |
-| 🎨 [**Modern CSS Learning Catalog**](https://github.com/oscar-lopez-dev/web-dev-learn-css) | **Deliberate-practice modern CSS layout architecture reference** | Interactive playgrounds, native web standards (Grid, Flexbox, Container Queries), GitHub Pages deploy |
+| 🧠 [**DevBrain**](https://github.com/oscar-lopez-dev/devbrain) | **AI-Powered Document Intelligence Platform** | RAG pipeline, FastAPI, Next.js, pgvector semantic search, LangGraph agents |
 | 🌐 [**Personal Brand Website**](https://github.com/oscar-lopez-dev/personal-brand-website) | **Developer Portfolio & Living Showcase** | Next.js 15 App Router, React 19, Tailwind CSS, Vitest test suite |
 | ⚡ [**VerifyGo**](https://github.com/oscar-lopez-dev/verifygo-web) | **Talent Arena Open Getaway Hackathon App** | Google Gemini GenAI SDK, React 19, Motion animations, Vite |
-| 🛡️ [**.NET Technical Challenges**](https://github.com/oscar-lopez-dev/redarbor-aspnetcore-ado) | **ASP.NET Core Web APIs** | ADO.NET, EF Core InMemory / SQLite, Moq unit testing, Dockerized services |
+| 🛡️ [**.NET Technical Challenges**](https://github.com/oscar-lopez-dev/redarbor-aspnetcore-ado) | **ASP.NET Core Web APIs** ([Redarbor](https://github.com/oscar-lopez-dev/redarbor-aspnetcore-ado) · [MotoGP](https://github.com/oscar-lopez-dev/motogp-netcore-api) · [Vueling](https://github.com/oscar-lopez-dev/vueling-netcore-api)) | ADO.NET, EF Core, Moq unit testing, Dockerized services |
 
 ---
 
