@@ -5,7 +5,7 @@
 **Fullstack Software Engineer · Modern Frontend · Cloud APIs · Applied AI**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Live_Site-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://personal-brand-website-iota-mauve.vercel.app)
-[![GitHub](https://img.shields.io/badge/GitHub-oscarlopez1991-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/oscarlopez1991)
+[![GitHub](https://img.shields.io/badge/GitHub-oscar--lopez--dev-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/oscar-lopez-dev)
 
 <p align="center">
   I design and build resilient web applications, data-driven APIs, and AI-powered interfaces.<br/>
@@ -36,19 +36,19 @@
 
 | Project | Description | Highlights |
 | :--- | :--- | :--- |
-| 🧠 [**DevBrain**](https://github.com/oscarlopez1991/devbrain) | **AI-Powered Document Intelligence Platform** | RAG pipeline, FastAPI, Next.js 16, pgvector semantic search, LangGraph agents |
-| 🎨 [**Modern CSS Learning Catalog**](https://github.com/oscarlopez1991/web-dev-learn-css) | **Deliberate-practice modern CSS layout architecture reference** | Interactive playgrounds, native web standards (Grid, Flexbox, Container Queries), GitHub Pages deploy |
-| 🌐 [**Personal Brand Website**](https://github.com/oscarlopez1991/personal-brand-website) | **Developer Portfolio & Living Showcase** | Next.js 15 App Router, React 19, Tailwind CSS, Vitest test suite |
-| ⚡ [**VerifyGo**](https://github.com/oscarlopez1991/verifygo-web) | **Talent Arena Open Getaway Hackathon App** | Google Gemini GenAI SDK, React 19, Motion animations, Vite |
-| 🛡️ [**.NET Technical Challenges**](https://github.com/oscarlopez1991/redarbor-aspnetcore-ado) | **ASP.NET Core Web APIs** | ADO.NET, EF Core InMemory / SQLite, Moq unit testing, Dockerized services |
+| 🧠 [**DevBrain**](https://github.com/oscar-lopez-dev/devbrain) | **AI-Powered Document Intelligence Platform** | RAG pipeline, FastAPI, Next.js 16, pgvector semantic search, LangGraph agents |
+| 🎨 [**Modern CSS Learning Catalog**](https://github.com/oscar-lopez-dev/web-dev-learn-css) | **Deliberate-practice modern CSS layout architecture reference** | Interactive playgrounds, native web standards (Grid, Flexbox, Container Queries), GitHub Pages deploy |
+| 🌐 [**Personal Brand Website**](https://github.com/oscar-lopez-dev/personal-brand-website) | **Developer Portfolio & Living Showcase** | Next.js 15 App Router, React 19, Tailwind CSS, Vitest test suite |
+| ⚡ [**VerifyGo**](https://github.com/oscar-lopez-dev/verifygo-web) | **Talent Arena Open Getaway Hackathon App** | Google Gemini GenAI SDK, React 19, Motion animations, Vite |
+| 🛡️ [**.NET Technical Challenges**](https://github.com/oscar-lopez-dev/redarbor-aspnetcore-ado) | **ASP.NET Core Web APIs** | ADO.NET, EF Core InMemory / SQLite, Moq unit testing, Dockerized services |
 
 ---
 
 ### 📊 GitHub Activity & Statistics
 
 <div align="center">
-  <img src="https://github-stats-alpha.vercel.app/api?username=oscarlopez1991&theme=tokyonight&show_icons=true&hide_border=true" alt="Oscar's GitHub stats" height="180" />
-  <img src="https://streak-stats.demolab.com/?user=oscarlopez1991&theme=tokyonight&hide_border=true" alt="Oscar's GitHub streak stats" height="180" />
+  <img src="https://github-stats-alpha.vercel.app/api?username=oscar-lopez-dev&theme=tokyonight&show_icons=true&hide_border=true" alt="Oscar's GitHub stats" height="180" />
+  <img src="https://streak-stats.demolab.com/?user=oscar-lopez-dev&theme=tokyonight&hide_border=true" alt="Oscar's GitHub streak stats" height="180" />
 </div>
 
 ---
