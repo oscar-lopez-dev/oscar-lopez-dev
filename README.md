@@ -2,11 +2,11 @@
 
 # Hi there, I'm Oscar 👋
 
-**Fullstack Software Engineer · Modern Frontend · Cloud APIs · Applied AI**
+**Senior Fullstack Engineer · Modern Frontend · Cloud APIs · Applied AI**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Live_Site-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://personal-brand-website-iota-mauve.vercel.app)
 [![GitHub](https://img.shields.io/badge/GitHub-oscar--lopez--dev-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/oscar-lopez-dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-oscarlopez1991-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/oscarlopez1991)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-oscarlopezdev-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/oscarlopezdev)
 [![X](https://img.shields.io/badge/X-@oscarlopezdev-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/oscarlopezdev)
 
 <p align="center">
@@ -48,7 +48,7 @@
 
 ### 📊 GitHub Activity & Statistics
 
-<div align="center">
+<div align=center>
   <img src="https://github-stats-alpha.vercel.app/api?username=oscar-lopez-dev&theme=tokyonight&show_icons=true&hide_border=true" alt="Oscar's GitHub stats" height="180" />
   <img src="https://streak-stats.demolab.com/?user=oscar-lopez-dev&theme=tokyonight&hide_border=true" alt="Oscar's GitHub streak stats" height="180" />
 </div>
