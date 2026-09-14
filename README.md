@@ -4,7 +4,7 @@
 
 **Senior Full-Stack AI Engineer**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-oscarlopez.dev-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://oscarlopez.dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-oscarlopez.dev-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://personal-brand-website-iota-mauve.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-oscarlopezdev-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/oscarlopezdev)
 [![X](https://img.shields.io/badge/X-@oscarlopezdev-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/oscarlopezdev)
 
