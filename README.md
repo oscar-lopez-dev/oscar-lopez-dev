@@ -6,6 +6,8 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Live_Site-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://personal-brand-website-iota-mauve.vercel.app)
 [![GitHub](https://img.shields.io/badge/GitHub-oscar--lopez--dev-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/oscar-lopez-dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-oscarlopez1991-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/oscarlopez1991)
+[![X](https://img.shields.io/badge/X-@oscarlopezdev-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/oscarlopezdev)
 
 <p align="center">
   I design and build resilient web applications, data-driven APIs, and AI-powered interfaces.<br/>
