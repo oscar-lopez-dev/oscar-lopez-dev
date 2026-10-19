@@ -38,8 +38,6 @@
 | :--- | :--- | :--- |
 | 🧠 [**DevBrain**](https://github.com/oscar-lopez-dev/devbrain) | **AI-Powered Document Intelligence Platform** | RAG pipeline, LangGraph agents, pgvector semantic search, FastAPI backend, Next.js frontend |
 | 🌐 [**Personal Brand Website**](https://github.com/oscar-lopez-dev/personal-brand-website) | **Developer Portfolio & Living Showcase** | Next.js App Router, React, Tailwind CSS, Vitest test suite |
-| ⚡ [**VerifyGo**](https://github.com/oscar-lopez-dev/verifygo-web) | **Talent Arena Open Getaway Hackathon App** | Google Gemini GenAI SDK, React, Motion animations, Vite |
-| 🛡️ [**.NET Technical Challenges**](https://github.com/oscar-lopez-dev/redarbor-aspnetcore-ado) | **ASP.NET Core Web APIs** ([Redarbor](https://github.com/oscar-lopez-dev/redarbor-aspnetcore-ado) · [MotoGP](https://github.com/oscar-lopez-dev/motogp-netcore-api) · [Vueling](https://github.com/oscar-lopez-dev/vueling-netcore-api)) | ADO.NET, EF Core, Moq unit testing, Dockerized services |
 
 ---
 
