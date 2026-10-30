@@ -36,7 +36,6 @@
 
 | Project | Description | Highlights |
 | :--- | :--- | :--- |
-| 🧠 [**DevBrain**](https://github.com/oscar-lopez-dev/devbrain) | **AI-Powered Document Intelligence Platform** | RAG pipeline, LangGraph agents, pgvector semantic search, FastAPI backend, Next.js frontend |
 | 🌐 [**Personal Brand Website**](https://github.com/oscar-lopez-dev/personal-brand-website) | **Developer Portfolio & Living Showcase** | Next.js App Router, React, Tailwind CSS, Vitest test suite |
 
 ---
